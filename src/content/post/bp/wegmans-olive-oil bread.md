@@ -23,7 +23,7 @@ Excellent crunch on the crust, with a soft, fluffy interior that holds the flavo
 *4.5/5*
 
 Kind of bland.
-Not bad — just safe, plain, and forgettable. If you like the idea of bread without strong flavors hitting you, it’s perfect. Otherwise, you’re going to miss that buttery garlic goodness real fast.
+Not bad — just safe, plain, and forgettable. If you like the idea of bread without strong flavors hitting you, it’s perfect. Otherwise, you’re going to miss that garlic goodness real fast.
 ## Overall Vibe:
 *4/5*
 
