@@ -16,7 +16,7 @@ Honestly the price has been rising for the past few years. At times coupons are 
 Excellent crunch on the crust, with a soft, fluffy interior that holds the butter well without getting soggy.   
 ## Flavor: 
 Real garlic flavor — not artificial tasting. Butter levels are generous but not greasy. Slight herbal notes (probably parsley) add a fresh touch.  
-## Overall Vibe:** 
+## Overall Vibe:
 For a store bakery garlic bread, Wegmans seriously overdelivers. It doesn’t just pass — it genuinely competes with restaurant bread baskets.
 
 ## Additional Comments
