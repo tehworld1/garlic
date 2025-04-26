@@ -16,7 +16,7 @@ Honestly the price has been rising for the past few years. At times coupons are 
 ## Texture: 
 *4.7/5*
 
-Excellent crunch on the crust, with a soft, fluffy interior that holds the butter well without getting soggy.   
+Excellent crunch on the crust, with a soft, fluffy interior that holds the flavor in well without getting soggy.   
 ## Flavor: 
 *4.5/5*
 

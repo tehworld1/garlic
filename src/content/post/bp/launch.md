@@ -25,3 +25,14 @@ Let's explore the holy world of garlic bread together.
 
 Stay buttery,  
 **Patrick**
+<hr/>
+<section id="about" style="margin-top: 3rem; padding-top: 2rem;">
+  <h2>About Me</h2>
+  <p>Hey! 
+  I'm Pat, a high school student who enjoys great bread, building cool things online, and technology. I'm just getting started on my writing journey! 
+  <br><br>
+  When I'm not taste-testing garlic bread, I’m working on sustainability projects, web development, or tinkering with tech.</p>
+  <p style="margin-top: 1.5rem;">
+    📬 Reach out: <a href="mailto:hello@thegarlicbread.com">hello@thegarlicbread.com</a>
+  </p>
+</section>
