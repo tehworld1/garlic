@@ -6,7 +6,7 @@ author: "Patrick"
 tags: ["store-bought", "wegmans", "crispy","tasty", "top", "$6"]
 ---
 ## Price
-$6.00
+$6.00 per loaf
 
 ## Value 
 *4/5*
@@ -25,9 +25,10 @@ Real garlic flavor — not artificial tasting. It's a nice compliment to a sandw
 *4.3/5*
 
 For a store bakery garlic bread, Wegmans seriously overdelivers. It doesn’t just pass — it genuinely competes with restaurant bread baskets.
-
 ## Additional Comments
 Eating this bread on the first day is out of this world. I could eat half the loaf easily. After the first day, it goes downhill, but don't worry at all. The bread is *PERFECT* for a sandwich or anything. Just throw it in a toaster for a couple minutes and that crisp bread comes to life.
+## Calories
+140 Per 1.25 Slices (Weird Amount, but fine)
 
 ## Rating: 8.7/10
 

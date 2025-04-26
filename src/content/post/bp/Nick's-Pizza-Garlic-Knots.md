@@ -6,7 +6,7 @@ author: "Patrick"
 tags: ["resturant", "Nick's Pizza", "Flavor Bomb","tasty", "top", "$6"]
 ---
 ## Price
-$5.95
+$5.95 for 6
 
 ## Location and Reviews on Google Maps
 <a href="https://maps.app.goo.gl/JZiNaLZBtLrFsLUs8">Nick's Pizza Restaurant, 822 Main St, Bethlehem, PA 18018</a>
