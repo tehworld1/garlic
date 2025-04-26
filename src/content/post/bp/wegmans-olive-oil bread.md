@@ -1,5 +1,5 @@
 ---
-title: "Wegmans Garlic Bread Review"
+title: "Wegmans Olive Oil Bread Review"
 description: "It’s basically Wegmans garlic bread — just... without the garlic."
 publishDate: "2025-04-26"
 author: "Patrick"
