@@ -1,6 +1,6 @@
 ---
 title: "Wegmans Garlic Bread Review"
-description: "It’s basically Wegmans garlic bread — just... without the garlic.
+description: "It’s basically Wegmans garlic bread — just... without the garlic."
 publishDate: "2025-04-26"
 author: "Patrick"
 tags: ["store-bought", "wegmans", "crispy","meh", "plain", "$6"]
