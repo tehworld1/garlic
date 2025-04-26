@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Garlic Bread Weekly!"
 description: "The official launch of the world's most important blog — dedicated entirely to garlic bread."
-publishDate: "2025-04-26"
+publishDate: "2025-04-25"
 author: "Patrick"
 tags: ["announcement", "launch", "garlic bread"]
 ---
