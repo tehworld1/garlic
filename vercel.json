@@ -1,9 +1,15 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
-      "destination": "https://thegarlicbread.com/$1",
-      "permanent": true
+      "source": "/(.*)",                         // Match all paths
+      "has": [
+        {
+          "type": "host",
+          "value": "www.thegarlicbread.com"          // Only apply the redirect to www.yourdomain.com
+        }
+      ],
+      "destination": "https://thegarlicbread.com/$1", // Redirect to non-www version, preserving path
+      "permanent": true                          // 301 permanent redirect
     }
   ]
 }
