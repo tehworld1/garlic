@@ -5,6 +5,9 @@ publishDate: "2025-04-26"
 author: "Patrick"
 tags: ["resturant", "Nick's Pizza", "Flavor Bomb","tasty", "top", "$6"]
 ---
+When you think garlic knots, you usually think side dish. Afterthought. Something tossed into the corner of your pizza order.
+Nick's Pizza in Bethlehem flips that on its head.
+These garlic knots are the main event — and they’re worth every napkin you'll destroy eating them.
 ## Price
 $5.95 for 6
 
@@ -28,7 +31,7 @@ Real garlic flavor. NOT artificial tasting. A bit greasy, but not out of the ord
 *4.7/5*
 
 For a resturant garlic knot, Nick's is very good. Especially for an area like Bethlehem, PA. Nick’s commits to their garlic knots — it’s not an afterthought. If you're local, it's basically an obligation to grab a box once in a while.
-## Additional Comments
+## Additional Comments - Best Way to Eat Them
 If you don’t inhale them immediately, reheat at 350°F for 3–4 minutes. Oven only — no microwaving if you respect yourself.
 
 ## Rating: 9.0/10
